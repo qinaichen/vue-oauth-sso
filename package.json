@@ -1,21 +1,22 @@
 {
-  "name": "vue-oauth-sso",
-  "version": "0.1",
-  "description": "vue.js sprig-cloud-oauth2 sso",
-  "main": "index.js",
-  "scripts": {},
-  "keywords": [
-    "vue",
-    "oauth2"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/qinaichen/vue-oauth-sso.git"
-  },
-  "author": "qinaichen",
-  "license": "Apache-2.0",
-  "devDependencies": {
-    "axios": "^0.19.2",
-    "vue": "^2.6.11"
-  }
+    "name": "vue-oauth-sso",
+    "version": "0.0.1",
+    "description": "vue.js sprig-cloud-oauth2 sso",
+    "private": false,
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+        "vue",
+        "oauth2"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qinaichen/vue-oauth-sso.git"
+    },
+    "author": "qinaichen",
+    "license": "Apache-2.0",
+    "devDependencies": {
+        "axios": "^0.19.2",
+        "vue": "^2.6.11"
+    }
 }
