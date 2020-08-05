@@ -1,6 +1,6 @@
 {
   "name": "vue-oauth-sso",
-  "version": "1.0.0",
+  "version": "0.1",
   "description": "vue.js sprig-cloud-oauth2 sso",
   "main": "index.js",
   "scripts": {},
