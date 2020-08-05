@@ -8,6 +8,10 @@
     "vue",
     "oauth2"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qinaichen/vue-oauth-sso.git"
+  },
   "author": "qinaichen",
   "license": "Apache-2.0",
   "devDependencies": {
